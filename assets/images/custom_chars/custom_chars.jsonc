@@ -1,0 +1,166 @@
+{
+     "templateMonster" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "monster"
+    }
+    ,"whitty" : {
+         "icons" : [
+             26
+            ,27
+            ,24
+        ]
+        ,"like" : "dad"
+    }
+    ,"templateMom" : {
+         "icons" : [
+             6
+            ,7
+        ]
+        ,"like" : "mom"
+    }
+    ,"cg5" : {
+         "icons" : [
+             12
+            ,13
+            ,24
+        ]
+        ,"like" : "cg5"
+    }
+    ,"templateSenpai-hd" : {
+         "icons" : [
+             22
+            ,22
+        ]
+        ,"like" : "senpai-hd"
+    }
+    ,"templateNewMonster" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "newmonster"
+    }
+    ,"templateBfChristmas" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "bf-christmas"
+    }
+    ,"whitty-crazy" : {
+         "icons" : [
+             28
+            ,29
+            ,24
+        ]
+        ,"like" : "whitty-crazy"
+    }
+    ,"templateSpooky" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "spooky"
+    }
+    ,"templateSenpai" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "senpai"
+    }
+    ,"templateBfCar" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "bf-car"
+    }
+    ,"templateBfPixel" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "bf-pixel"
+    }
+    ,"templateGf" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "gf"
+    }
+    ,"template" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "bf"
+    }
+    ,"templateGfCar" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "gf-car"
+    }
+    ,"templateSenpaiAngry" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "senpai-angry"
+    }
+    ,"templateSpirit" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "bf-christmas"
+    }
+    ,"templateGfPixel" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "gf-pixel"
+    }
+    ,"templateDad" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "dad"
+    }
+    ,"templateSpirit-hd" : {
+         "icons" : [
+             23
+            ,23
+        ]
+        ,"like" : "spirit-hd"
+    }
+    ,"templateSenpaiAngry-hd" : {
+         "icons" : [
+             22
+            ,22
+        ]
+        ,"like" : "senpai-angry-hd"
+    }
+    ,"templateParents" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "parents"
+    }
+    ,"templatePico" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "pico"
+    }
+}
