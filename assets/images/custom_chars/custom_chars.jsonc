@@ -100,12 +100,13 @@
         ]
         ,"like" : "bf"
     }
-    ,"templateGfCar" : {
+    ,"hex" : {
          "icons" : [
-             0
-            ,1
+             12
+            ,13
+            ,24
         ]
-        ,"like" : "gf-car"
+        ,"like" : "dad"
     }
     ,"templateSenpaiAngry" : {
          "icons" : [
@@ -120,6 +121,13 @@
             ,1
         ]
         ,"like" : "bf-christmas"
+    }
+    ,"templateGfCar" : {
+         "icons" : [
+             0
+            ,1
+        ]
+        ,"like" : "gf-car"
     }
     ,"templateGfPixel" : {
          "icons" : [
@@ -162,5 +170,13 @@
             ,1
         ]
         ,"like" : "pico"
+    }
+    ,"or3o" : {
+         "icons" : [
+             16
+            ,10
+            ,24
+        ]
+        ,"like" : "gf"
     }
 }

@@ -6,5 +6,7 @@
   "templateMall": "mall",
   "templateEvilMall": "mallEvil",
   "templateSchool": "school",
-  "alley": "stage"
+  "alley": "stage",
+  "record-room": "stage",
+  "hoops": "stage"
 }

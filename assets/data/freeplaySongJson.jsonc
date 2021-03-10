@@ -31,4 +31,19 @@
         ]
         ,"name" : "Whitty Mod"
     }
+    ,{
+         "songs" : [
+             "gimme-a-break"
+            ,"man-on-stilts"
+            ,"knock-knock"
+        ]
+        ,"name" : "cg5 mod"
+    }
+    ,{
+         "songs" : [
+             "ram"
+            ,"hello-world"
+        ]
+        ,"name" : "hex mod"
+    }
 ]
